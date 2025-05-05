@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+
+# Flask and Python environment
+instance/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints
+
+# Environment variables or config files
+.env
+*.env
+
+# VSCode files
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Model files
+*.pkl
+*.joblib
+
+# Logs
+*.log
+
+# Output or cache files
+.cache/
