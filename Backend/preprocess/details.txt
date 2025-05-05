@@ -1,0 +1,3 @@
+It handles data cleaning, validation, transformation, and scaling. 
+any step that ensures the data is in the correct format for prediction.
+delete file when you start working

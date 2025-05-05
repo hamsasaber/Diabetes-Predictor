@@ -1,0 +1,2 @@
+# Trained Naive Bayes model (via joblib/pickle)
+delete file when u start working
